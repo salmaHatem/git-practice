@@ -1,1 +1,2 @@
 Hello odian! i am still learning !!
+I am learning Git step by step.
